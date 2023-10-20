@@ -11,8 +11,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ArielNicolas2021/results-summary-component-main](https://github.com/ArielNicolas2021/results-summary-component-main)
+- Live Site URL: [https://arielnicolas2021.github.io/results-summary-component-main/](https://arielnicolas2021.github.io/results-summary-component-main/)
 
 ### Built with
 
@@ -24,5 +24,5 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ArielNicolas2021)
-- Twitter - [@yourusername](https://twitter.com/ArielNicolas02)
+- Frontend Mentor - [@ArielNicolas2021](https://www.frontendmentor.io/profile/ArielNicolas2021)
+- Twitter - [@ArielNicolas02](https://twitter.com/ArielNicolas02)
