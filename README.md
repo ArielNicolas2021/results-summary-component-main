@@ -11,7 +11,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component](https://www.frontendmentor.io/solutions/order-summary-component-_K7Sop7NKB)
+- Solution URL: [https://www.frontendmentor.io/solutions/results-summary-component](https://www.frontendmentor.io/solutions/results-summary-component-yK5rF4cfQB)
 - Live Site URL: [https://arielnicolas2021.github.io/results-summary-component-main/](https://arielnicolas2021.github.io/results-summary-component-main/)
 
 ### Built with
