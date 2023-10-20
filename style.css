@@ -152,16 +152,28 @@ section {
     padding: 0 2rem;
 }
 
+.memory-title {
+    color: var(--orangey-yellow);
+}
+
 .verbal {
     background-color: rgba(0, 189, 145, .1);
     border-radius: 1rem;
     padding: 0 2rem;
 }
 
+.verbal-title {
+    color: var(--green-teal);
+}
+
 .visual {
     background-color: rgba(17, 37, 212, .1);
     border-radius: 1rem;
     padding: 0 2rem;
+}
+
+.visual-title {
+    color: var(--cobalt-blue);
 }
 
 .btn {
